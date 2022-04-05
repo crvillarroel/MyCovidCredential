@@ -5,7 +5,7 @@
 Extremely simple and privacy-preserving PWA (Progressive Web Application) for storing locally a single EU Digital COVID Certificates.
 
 # Actually deployed on IN2 I+D+i Azure Cloud
-[![DEMO](https://yellow-bush-0b632ce10.1.azurestaticapps.net)
+[DEMO](https://yellow-bush-0b632ce10.1.azurestaticapps.net)
 
 
 ## Installation and building
